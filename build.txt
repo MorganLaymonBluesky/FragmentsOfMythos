@@ -1,0 +1,3 @@
+displayName = Fragments of Mythos
+author = Benjamin Wongmanee and Morgan Laymon
+version = 0.1
