@@ -5,4 +5,6 @@ Items: {
 		DisplayName: Test Melee
 		Tooltip: ""
 	}
-} 
+}
+
+NPCs.TestEnemy.DisplayName: Test Enemy
